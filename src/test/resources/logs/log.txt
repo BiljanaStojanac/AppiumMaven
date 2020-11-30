@@ -1,0 +1,5 @@
+2020-11-10 08:44:53:429 [Appium] Welcome to Appium v1.18.3
+2020-11-10 08:44:53:431 [Appium] Non-default server args:
+2020-11-10 08:44:53:432 [Appium]   logFile: C:\Users\bstojanac\OneDrive - Sixsentix AG\AppiumTesting\AppiumMaven\src\test\resources\logs\log.txt
+2020-11-10 08:44:53:433 [Appium]   localTimezone: true
+2020-11-10 08:44:53:466 [HTTP] Could not start REST http interface listener. The requested port may already be in use. Please make sure there is no other instance of this server running already.

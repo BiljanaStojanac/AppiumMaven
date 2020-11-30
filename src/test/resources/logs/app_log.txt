@@ -1,0 +1,2 @@
+INFO    2020-11-26 10:11:35,172 [main] base.PreconditionAndPostcondition  - Appium server started
+INFO    2020-11-26 10:11:35,209 [main] base.PreconditionAndPostcondition  - Android_InsuranceCalculator.properties properties file loaded !!!
